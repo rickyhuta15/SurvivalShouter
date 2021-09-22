@@ -7,7 +7,7 @@ menambahkan satu level
 ## Kekurangan 
 belum bisa menampilkan jika kalah karena itu saya membuat kondisi menang jika telah membunuh dua enemy
 
-ketika kena border tidak di hitung mati 
+ketika Enemy terkena border tidak di hitung mati 
 
 belum menambahkan bird lain hanya red dan yellow
 
