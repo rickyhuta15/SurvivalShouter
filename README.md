@@ -2,7 +2,9 @@
 game ini adalah game dimana pemain mengalahkan enemy mengunakan bird yang di sediakan
 ## Penambahan Fitur
 saya menambahkan back sound agar game tidak terlalu sepi
+
 menambahkan menu awal
+
 menambahkan satu level
 ## Kekurangan 
 belum bisa menampilkan jika kalah karena itu saya membuat kondisi menang jika telah membunuh dua enemy
