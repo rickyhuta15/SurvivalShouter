@@ -16,4 +16,4 @@ belum menambahkan bird lain hanya red dan yellow
 *jika kaka berkenan memberi tahu apa yang harus di ubah agar game semakin baik
 ## Game telah di build ada dalam folder dengan nama hasil game
 link Game 
-
+https://github.com/rickyhuta15/anggryBirds/releases/tag/Anggrybirds
